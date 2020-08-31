@@ -1,0 +1,29 @@
+body {
+	background:#000000;
+	color:silver;
+}
+div{
+	color:#fff;
+}
+
+h1{ 
+color:#fff;
+}
+.oro{
+	color:gold;
+}
+.azul{
+	color:blue;
+}
+.naranja{
+	color:orange;
+}
+.rojo{
+	color:red;
+}
+a{
+	color:orange;
+}
+p{
+	color:white;
+}
